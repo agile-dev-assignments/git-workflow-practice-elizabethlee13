@@ -1,2 +1,11 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+
+# Link:
+https://www.carscoops.com/2021/02/volkswagen-to-use-microsofts-cloud-to-help-develop-autonomous-driving-tech/
+
+# What I found interesting 
+
+
+
+
+
